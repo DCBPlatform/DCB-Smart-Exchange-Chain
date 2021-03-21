@@ -4,7 +4,7 @@
   "chainType": "Live",
   "bootNodes": [],
   "telemetryEndpoints": null,
-  "protocolId": 777,
+  "protocolId": "777",
   "properties": null,
   "consensusEngine": null,
   "lightSyncState": null,
